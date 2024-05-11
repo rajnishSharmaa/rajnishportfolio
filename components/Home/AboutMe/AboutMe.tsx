@@ -47,7 +47,7 @@ export default function AboutMe(props) {
             </div> */}
             {/* <div className="font-Header tracking-wide">
               <span className="text-gray-400  ">
-                Fast-forward to today, I&apos;ve had the privilege of working at
+                Fast-forward to today, I haveve had the privilege of working at
                 <span className="text-AAsecondary"> a huge manufacturing company</span>,
                 <span className="text-AAsecondary"> a start-up</span>,{" "}
                 <span className="text-AAsecondary">export-import companies</span>, also
@@ -60,7 +60,7 @@ export default function AboutMe(props) {
 
             <div className="font-Header tracking-wide">
               <span className="text-gray-400  ">
-                Here are a few technologies I&apos;ve been working with recently :
+                Here are a few technologies I haveve been working with recently :
               </span>
             </div>
             <div className="font-Header tracking-wide flex flex-row space-x-16">
